@@ -1,0 +1,1 @@
+Las funciones callback, son tareas que usan otra tareas. Se realzizan esas tareas para luego poder enviarle inforrmación a la taea que llamamos en un principio.

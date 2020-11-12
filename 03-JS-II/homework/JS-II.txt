@@ -1,0 +1,8 @@
+For: con for podemos asar por cada elemento que tenga un arreglo, y trabajar con cada uno de ellos de una misma manera.
+
+&&: Cuando queremos hacer una tarea, pero para eso necesitamos saber primero cumplimos si o si algunas caracteristicas utilizamos este simbolo. Si alguna de las caracteristicas no se cumple entonces no podemos realizar la tarea.
+
+||: Este simbolo es parecido al anterior, la diferencia que tiene es que no importa que se cumplan si o si esas caracteristicas, con que una de ellas se cumpla podemos realizar las tareas que queremos.
+
+!: Con este simbolo preguntamos si entre esas caracteristicas son diferentes. 
+Por ejemplo, tenemos dos colores y decimos, ¿Rojo es diferente a Azul?, eso lo escribiriamos así: Rojo != Azul

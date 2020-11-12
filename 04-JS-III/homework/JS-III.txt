@@ -1,0 +1,2 @@
+
+-Los arrays son una lista desordenada de cosas. En la que podemos encontrar letras, palabras, numeros, objetos, otras listas dentro

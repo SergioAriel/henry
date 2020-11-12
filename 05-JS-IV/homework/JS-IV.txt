@@ -1,0 +1,15 @@
+Objetos: Los objetos podemos compararlos con los objetos de la vida real, tienen caracteristicas como colores, o que cosas pueden hacer. Por ejemplo un perro tiene pelos, 
+y tambien pueden ladrar.
+
+Propiedades: Son las caracteristicas de los objetos, en el ejemplo anterior dijimos que el perro tenia pelos, los pelos son una propiedad del objeto.
+
+Métodos: Todas las tareas o acciones que puede hacer un objeto se llaman metodos.
+Volvamos a tomar el primero ejemplo, ladrar es un metodo que tienen los perros, es una accion que tienen los perros.
+
+Bucle "for...in":
+Este bulcle sirve para pasar por cada objeto que tengamos guardados. Y poder realizar acciones o tareas con cada uno de ellos.
+
+Notación de puntos vs notación de corchetes:
+La notacion de puntos y la notacion de corchetes sirven para el mismo fin, poder entrar a la propiedad de un objeto.
+La diferencia entre ambos es que la de corchetes ocupa mucho espacio, pero hay que usarlos para poder entrar en alguna variable que tenga el objeto.
+La notacion de puntos es la mas usada y la mas rapida de ingresar.

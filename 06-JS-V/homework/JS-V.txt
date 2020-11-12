@@ -1,0 +1,7 @@
+Prototype:
+Aqui es donde creamos los tareas que le vamos a dar a un objeto.
+Todas las tareas que queremos que el objeto pueda desarrollar se crean en el prototype de un objeto.
+
+Constructors:
+Nos sirve para poder crear varios objetos de la misma tipo.
+Por ejemplo Muebles puede ser un constructor, y con ese podemos crear sillas, mesas, guardarropas, etc.
